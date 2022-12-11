@@ -8,6 +8,7 @@ body {
   justify-content: center;
   background: url(Back.jpg);
   background-size: cover;
+  background-repeat: no-repeat;
   overflow: hidden;
 }
 h2 {
